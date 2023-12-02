@@ -1,2 +1,2 @@
 if name == "main":
-	print("hello")
+	print("hellohohoh")
