@@ -1,0 +1,3 @@
+[submodule "LABA"]
+	path = LABA
+	url = git@github.com:KiGasa/LABA
